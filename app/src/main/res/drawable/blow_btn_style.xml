@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/btn_down" android:state_pressed="true" />
+    <!-- pressed -->
+    <item android:drawable="@mipmap/btn_up" />
+    <!-- default -->
+</selector>
